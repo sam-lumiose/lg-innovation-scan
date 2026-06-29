@@ -4,5 +4,16 @@
     "owner": "Local Government Innovation Scan",
     "tagline": "A daily horizon scan of ideas and technologies reshaping Australian local government."
   },
-  "digests": []
+  "digests": [
+    {
+      "date": "2026-06-29",
+      "file": "data/digests/2026-06-29.json",
+      "posture": "Quiet scan day — no free-source innovation signals could be confidently dated to the last 24 hours; sector momentum remains in waste/circular economy, AI-assisted planning and smart-community AI, but nothing new broke in-window.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
+    }
+  ]
 }

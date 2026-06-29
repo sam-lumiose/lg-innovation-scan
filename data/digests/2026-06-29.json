@@ -1,12 +1,137 @@
 {
   "date": "2026-06-29",
-  "generated_at": "2026-06-29T23:21:27+10:00",
-  "posture": "Quiet scan day — no free-source innovation signals could be confidently dated to the last 24 hours; sector momentum remains in waste/circular economy, AI-assisted planning and smart-community AI, but nothing new broke in-window.",
-  "summary": "Empty day. A full scan of the free sources in §1a (AU councils & sector), §1b (AU industry verticals), §1c (overseas, equal weight) and §1d (tertiary/research institutes) surfaced no item that could be reliably placed inside the last-24-hour window. The nearest sector signals — Townsville City Council's AI waste-truck pedestrian-safety system (8 Jun 2026), the ACT FOGO multi-unit pilot expansion, ASCA's reopened InsightWise AI trial for councils, the NSW AI-in-planning / DAISY program, the Bloomberg Mayors AI Forum launched at CityLab 2026, and the C40 mayors' sustainable-data-centre pledge (23 Jun 2026) — all predate the window and were excluded to respect the 24-hour rule and avoid stale duplication. No paywalled items are logged. Today is Monday, so the §1e 50-council Saturday watchlist was not scanned. Sections are published empty per §6.",
+  "generated_at": "2026-06-29T23:36:58+10:00",
+  "posture": "Catch-up edition (7-day window). The week's clearest, most transferable innovation signal was the 2026 National Awards for Local Government (announced 23 June) — a deep bench of judged, replicable council projects spanning road safety, sustainable housing, resilient asset rebuilds, libraries and workforce — against a backdrop of active but mostly just-out-of-window waste/circular-economy moves.",
+  "summary": "One-off backfill scanning the last seven days (23–29 June 2026) across §1a–§1d plus, by override, the §1e 50-council watchlist. The dominant in-window signal was the 2026 National Awards for Local Government, announced 23 June in their 40th year: 69 councils lodged 191 submissions and 13 category winners were named, giving a rich set of proven, judged, transferable initiatives — the strongest 'adopt' signal in the register. The items below draw on the most innovation-relevant winners, scope-filtered to Australian council functions per §3b and spread across road safety, built environment, community/libraries/placemaking, asset delivery and workforce/procurement. Notable near-window activity was excluded for falling just outside the 7-day window: Queensland's 'Less Landfill, More Recycling 2035' waste strategy with its $975m package and GROW FOGO/Resource Recovery Boost council grants (17 June), and the SA soft-plastics kerbside recycling trial running across Adelaide, Charles Sturt and Port Adelaide Enfield (no firm in-window date). The §1e watchlist newsrooms and latest business papers were scanned but yielded no additional confirmable in-window innovation item (lumpy yield is expected). No paywalled items are logged this edition; where a paid title was the only source, it was held to headline + standfirst and not used. Waste/circular economy, climate/energy/biodiversity and digital/AI sections are light this week because the confidently-dated, in-scope signal concentrated in the awards.",
   "counts": {
-    "act": 0,
-    "watch": 0,
+    "act": 8,
+    "watch": 1,
     "inform": 0
   },
-  "sections": []
+  "sections": [
+    {
+      "category": "Roads, transport & mobility",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Vincent's 'near-miss' road-safety pilot wins national recognition",
+          "summary": "The City of Vincent's Near Miss Pilot Program at the Fitzgerald Street/Angove Street intersection took out the Road Safety category at the 2026 National Awards for Local Government. The approach targets dangerous locations using observed near-miss / conflict data rather than waiting for a crash history to build up.",
+          "so_what": "Any council managing local-road safety could adopt proactive near-miss / conflict analytics to prioritise treatments at risky intersections before serious crashes occur, stretching limited road-safety budgets.",
+          "tags": ["AU-council", "Roads, transport & mobility"],
+          "source": "National Awards for Local Government (via Mirage News)",
+          "url": "https://www.miragenews.com/outstanding-local-government-achievements-1696938/",
+          "published": "2026-06-23",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Built environment & planning",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Vincent's 'GreenTrack' streamlines the path to more sustainable homes",
+          "summary": "The City of Vincent won the Environmental Sustainability category at the 2026 National Awards for its GreenTrack initiative, described as a simple way to deliver more sustainable homes. It uses the council's planning/building levers to make higher-performance housing easier to deliver.",
+          "so_what": "A replicable template for councils wanting to lift residential environmental performance through their development-assessment and building functions without adding red tape for applicants.",
+          "tags": ["AU-council", "Built environment & planning"],
+          "source": "National Awards for Local Government (via Mirage News)",
+          "url": "https://www.miragenews.com/outstanding-local-government-achievements-1696938/",
+          "published": "2026-06-23",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Community, libraries & placemaking",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Sunshine Coast's 'Library +' model recognised as a regional-growth anchor",
+          "summary": "Sunshine Coast Council's 'Library + Caloundra' won the Regional Growth category at the 2026 National Awards. The project reframes a public library as a multi-purpose civic and growth hub rather than a book-lending facility alone.",
+          "so_what": "Growth-area councils can treat new libraries as anchor infrastructure that bundles community, learning and economic-development services, improving the business case for the build.",
+          "tags": ["AU-council", "Community, libraries & placemaking"],
+          "source": "National Awards for Local Government (via Mirage News)",
+          "url": "https://www.miragenews.com/outstanding-local-government-achievements-1696938/",
+          "published": "2026-06-23",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Burwood turns a back laneway into a live-music destination",
+          "summary": "Burwood Council won the Arts and Culture category at the 2026 National Awards for 'Ford Lane: From Laneway to Live Music Destination', a placemaking project that activated an underused laneway into a cultural venue.",
+          "so_what": "A low-cost placemaking play other urban councils can copy: activate existing laneways and dead space for night-time economy and cultural programming instead of building new venues.",
+          "tags": ["AU-council", "Community, libraries & placemaking"],
+          "source": "National Awards for Local Government (via Mirage News)",
+          "url": "https://www.miragenews.com/outstanding-local-government-achievements-1696938/",
+          "published": "2026-06-23",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Wollongong's Indigenous Business Expo models inclusive economic development",
+          "summary": "Wollongong City Council won the Aboriginal and Torres Strait Islander People's Recognition category at the 2026 National Awards for the Illawarra Indigenous Business Expo, connecting First Nations businesses with buyers and the wider economy.",
+          "so_what": "A transferable economic-development and procurement-engagement model councils can run to support First Nations enterprise and meet local-content and reconciliation commitments.",
+          "tags": ["AU-council", "Community, libraries & placemaking"],
+          "source": "National Awards for Local Government (via Mirage News)",
+          "url": "https://www.miragenews.com/outstanding-local-government-achievements-1696938/",
+          "published": "2026-06-23",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Asset management & infrastructure delivery",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Hawkesbury's flood-damaged heritage bridge rebuilt for resilience",
+          "summary": "Hawkesbury City Council won the Disaster Readiness and Recovery category at the 2026 National Awards for reconstructing the Thomas James Bridge after the July 2022 floods, preserving its heritage significance while improving structural resilience and safety.",
+          "so_what": "A model for councils rebuilding flood- or fire-damaged local structures: 'build back better' on resilience while retaining heritage value, relevant as extreme-weather damage to council assets rises.",
+          "tags": ["AU-council", "Asset management & infrastructure delivery"],
+          "source": "National Awards for Local Government (via Mirage News)",
+          "url": "https://www.miragenews.com/outstanding-local-government-achievements-1696938/",
+          "published": "2026-06-23",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Palmerston's Zuccoli pump track shows infrastructure-led community payoff",
+          "summary": "City of Palmerston won the Productivity through Infrastructure category at the 2026 National Awards for the Zuccoli Community Hub Pump Track, an inclusive, multi-purpose recreational facility serving a fast-growing community.",
+          "so_what": "Growth-area councils can use compact, multi-use active-recreation infrastructure to deliver community wellbeing outcomes cost-effectively in new suburbs.",
+          "tags": ["AU-council", "Asset management & infrastructure delivery"],
+          "source": "National Awards for Local Government (via Mirage News)",
+          "url": "https://www.miragenews.com/outstanding-local-government-achievements-1696938/",
+          "published": "2026-06-23",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Governance, procurement & workforce",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Moreton Bay unlocks affordable housing through community leasing",
+          "summary": "City of Moreton Bay won the Affordable Housing category at the 2026 National Awards for its Community Leasing for Social and Affordable Housing program, using council leasing arrangements to deliver long-term housing for people at risk of homelessness.",
+          "so_what": "A procurement/leasing mechanism other councils can replicate to put council-controlled land and assets to work for social and affordable housing without large capital outlays.",
+          "tags": ["AU-council", "Governance, procurement & workforce"],
+          "source": "National Awards for Local Government (via Mirage News)",
+          "url": "https://www.miragenews.com/outstanding-local-government-achievements-1696938/",
+          "published": "2026-06-23",
+          "paywall": false
+        },
+        {
+          "severity": "act",
+          "headline": "Port Adelaide Enfield builds a women-in-asset-roles workforce pipeline",
+          "summary": "City of Port Adelaide Enfield won the Workforce and Skills category at the 2026 National Awards for its Women in City Assets Program, growing women's participation in asset, engineering and infrastructure roles.",
+          "so_what": "Directly relevant to the sector's severe workforce/skills shortage: a replicable diversity-and-pipeline program that widens the talent pool for hard-to-fill technical and asset-management roles.",
+          "tags": ["AU-council", "Governance, procurement & workforce"],
+          "source": "National Awards for Local Government (via Mirage News)",
+          "url": "https://www.miragenews.com/outstanding-local-government-achievements-1696938/",
+          "published": "2026-06-23",
+          "paywall": false
+        }
+      ]
+    }
+  ]
 }

@@ -8,10 +8,10 @@
     {
       "date": "2026-06-29",
       "file": "data/digests/2026-06-29.json",
-      "posture": "Quiet scan day — no free-source innovation signals could be confidently dated to the last 24 hours; sector momentum remains in waste/circular economy, AI-assisted planning and smart-community AI, but nothing new broke in-window.",
+      "posture": "Catch-up edition (7-day window). The week's clearest, most transferable innovation signal was the 2026 National Awards for Local Government (announced 23 June) — a deep bench of judged, replicable council projects spanning road safety, sustainable housing, resilient asset rebuilds, libraries and workforce — against a backdrop of active but mostly just-out-of-window waste/circular-economy moves.",
       "counts": {
-        "act": 0,
-        "watch": 0,
+        "act": 8,
+        "watch": 1,
         "inform": 0
       }
     }

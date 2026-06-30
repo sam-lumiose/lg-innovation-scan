@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-07-01",
+      "file": "data/digests/2026-07-01.json",
+      "posture": "Quiet midweek scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the week's strongest 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
+    },
+    {
       "date": "2026-06-30",
       "file": "data/digests/2026-06-30.json",
       "posture": "Quiet midweek scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) are all warm but produced no fresh, in-window council announcement today; the week's strongest 'adopt' material remains the 2026 National Awards already logged on 29 June.",

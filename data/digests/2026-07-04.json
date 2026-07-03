@@ -1,0 +1,29 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T06:30:00+10:00",
+  "posture": "Quiet Saturday scan with the §1e 50-council deep dive running. The free §1a-§1d sources produced no fresh, in-window, in-scope innovation signal; the sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but recycled older or undated coverage. The watchlist deep scan surfaced a single low-intensity, awareness-only placemaking item from the City of Casey (VIC).",
+  "summary": "Near-empty day. A full daily scan of the §1a-§1d free sources (AU council & sector press, AU industry verticals, overseas equal-weight outlets and the tertiary/research institutes) returned no item that was simultaneously (a) published in the last 24 hours, (b) in scope per the §3b Australian-council-function filter, and (c) not already covered in the previous 3 days. As this is a Saturday, the §1e 50-council watchlist deep scan was additionally run across newsrooms and the latest available business papers / Notices of Motion; yield was lumpy as expected. That deep scan surfaced one loggable signal: the City of Casey's Graffiti Management Program 2026-30, reported 2 July, which is included below as a horizon (awareness-only) placemaking item. Several recurring or undated items were again considered and excluded: the NSW large-business FOGO mandate (commenced 1 July) and kerbside-standardisation milestones are regulatory-rollout dates, not fresh innovation signals; the NSW multi-council Early Adopter AI-in-planning trial and DAISY development-application assistant produced no new dated development; recycled-content road material (Reconophalt, geopolymer pavement, crushed-glass asphalt) surfaced only via older or undated coverage; the ASCA 'InsightWise' member AI-platform trial is undated; and overseas material (Bloomberg CityLab 2026 / Mayors AI Forum, UK Simpler Recycling and LGR waste reform) was either out-of-window or general policy rather than a fresh council-transferable signal. No paywalled items were logged; where a paid title was the only source it was held to headline + standfirst and not used.",
+  "counts": {
+    "act": 0,
+    "watch": 0,
+    "inform": 1
+  },
+  "sections": [
+    {
+      "category": "Community, libraries & placemaking",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Casey reframes graffiti response around prevention, design and legal art walls",
+          "summary": "The City of Casey (VIC) adopted a Graffiti Management Program 2026-30 built on six principles (eradication, engagement, education, engineering, enforcement, evaluation). Alongside rapid removal and enforcement, it adds preventive measures such as designing public spaces to discourage tagging (materials, lighting, landscaping) and creating dedicated legal graffiti walls and creative programs to redirect young artists.",
+          "so_what": "A transferable placemaking template for any Australian council managing graffiti as a public-space and community-safety function: the shift from reactive clean-up to CPTED-style design plus sanctioned creative outlets is something peers can watch and adapt. Signal only at this stage - it is a newly adopted local strategy rather than a proven or tech-driven innovation.",
+          "tags": ["AU-council", "Community, libraries & placemaking"],
+          "source": "City of Casey",
+          "url": "https://www.casey.vic.gov.au/news/council-takes-holistic-approach-graffiti-management",
+          "published": "2026-07-02",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}

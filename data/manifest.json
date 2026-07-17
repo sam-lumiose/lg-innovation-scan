@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-07-18",
+      "file": "data/digests/2026-07-18.json",
+      "posture": "AI moved from single-council experiment toward sector infrastructure today: MAV and ALGA stood up a National AI Working Group while three Adelaide councils jointly bought a four-year AI partner — two different answers to the same question of how a 538-council sector builds AI capability it cannot build alone. Wollongong supplied the day's world-first, and Saturday's watchlist scan produced real yield.",
+      "counts": {
+        "act": 1,
+        "watch": 2,
+        "inform": 2
+      }
+    },
+    {
       "date": "2026-07-17",
       "file": "data/digests/2026-07-17.json",
       "posture": "Quiet Friday scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the strongest recent 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
@@ -28,7 +38,7 @@
     {
       "date": "2026-07-15",
       "file": "data/digests/2026-07-15.json",
-      "posture": "Quiet Wednesday scan \u2014 no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the strongest recent 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
+      "posture": "Quiet Wednesday scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the strongest recent 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
       "counts": {
         "act": 0,
         "watch": 0,
@@ -38,7 +48,7 @@
     {
       "date": "2026-07-14",
       "file": "data/digests/2026-07-14.json",
-      "posture": "Quiet Tuesday scan \u2014 no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the strongest recent 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
+      "posture": "Quiet Tuesday scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the strongest recent 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
       "counts": {
         "act": 0,
         "watch": 0,
@@ -48,7 +58,7 @@
     {
       "date": "2026-07-13",
       "file": "data/digests/2026-07-13.json",
-      "posture": "Quiet Monday scan \u2014 no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the strongest recent 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
+      "posture": "Quiet Monday scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the strongest recent 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
       "counts": {
         "act": 0,
         "watch": 0,
@@ -58,7 +68,7 @@
     {
       "date": "2026-07-12",
       "file": "data/digests/2026-07-12.json",
-      "posture": "Quiet Sunday scan \u2014 no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the strongest recent 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
+      "posture": "Quiet Sunday scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the strongest recent 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
       "counts": {
         "act": 0,
         "watch": 0,
@@ -68,7 +78,7 @@
     {
       "date": "2026-07-11",
       "file": "data/digests/2026-07-11.json",
-      "posture": "Quiet Saturday scan with the \u00a71e 50-council deep dive running. The free \u00a71a-\u00a71d sources produced no fresh, in-window, in-scope innovation signal; the sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but recycled older or undated coverage. The watchlist deep scan across newsrooms and the latest available business papers / Notices of Motion also surfaced nothing publishable in-window.",
+      "posture": "Quiet Saturday scan with the §1e 50-council deep dive running. The free §1a-§1d sources produced no fresh, in-window, in-scope innovation signal; the sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but recycled older or undated coverage. The watchlist deep scan across newsrooms and the latest available business papers / Notices of Motion also surfaced nothing publishable in-window.",
       "counts": {
         "act": 0,
         "watch": 0,
@@ -78,7 +88,7 @@
     {
       "date": "2026-07-10",
       "file": "data/digests/2026-07-10.json",
-      "posture": "Quiet Friday scan \u2014 no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the strongest recent 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
+      "posture": "Quiet Friday scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the strongest recent 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
       "counts": {
         "act": 0,
         "watch": 0,
@@ -88,7 +98,7 @@
     {
       "date": "2026-07-09",
       "file": "data/digests/2026-07-09.json",
-      "posture": "Quiet Thursday scan \u2014 no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the strongest recent 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
+      "posture": "Quiet Thursday scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the strongest recent 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
       "counts": {
         "act": 0,
         "watch": 0,
@@ -98,7 +108,7 @@
     {
       "date": "2026-07-08",
       "file": "data/digests/2026-07-08.json",
-      "posture": "Quiet Wednesday scan \u2014 no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the strongest recent 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
+      "posture": "Quiet Wednesday scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the strongest recent 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
       "counts": {
         "act": 0,
         "watch": 0,
@@ -108,7 +118,7 @@
     {
       "date": "2026-07-07",
       "file": "data/digests/2026-07-07.json",
-      "posture": "Quiet Tuesday scan \u2014 no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the strongest recent 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
+      "posture": "Quiet Tuesday scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the strongest recent 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
       "counts": {
         "act": 0,
         "watch": 0,
@@ -118,7 +128,7 @@
     {
       "date": "2026-07-06",
       "file": "data/digests/2026-07-06.json",
-      "posture": "Quiet Monday scan \u2014 no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the strongest recent 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
+      "posture": "Quiet Monday scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the strongest recent 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
       "counts": {
         "act": 0,
         "watch": 0,
@@ -128,7 +138,7 @@
     {
       "date": "2026-07-05",
       "file": "data/digests/2026-07-05.json",
-      "posture": "Quiet Sunday scan \u2014 no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the week's strongest 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
+      "posture": "Quiet Sunday scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the week's strongest 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
       "counts": {
         "act": 0,
         "watch": 0,
@@ -138,7 +148,7 @@
     {
       "date": "2026-07-04",
       "file": "data/digests/2026-07-04.json",
-      "posture": "Quiet Saturday scan with the \u00a71e 50-council deep dive running. The free \u00a71a-\u00a71d sources produced no fresh, in-window, in-scope innovation signal; the sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but recycled older or undated coverage. The watchlist deep scan surfaced a single low-intensity, awareness-only placemaking item from the City of Casey (VIC).",
+      "posture": "Quiet Saturday scan with the §1e 50-council deep dive running. The free §1a-§1d sources produced no fresh, in-window, in-scope innovation signal; the sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but recycled older or undated coverage. The watchlist deep scan surfaced a single low-intensity, awareness-only placemaking item from the City of Casey (VIC).",
       "counts": {
         "act": 0,
         "watch": 0,
@@ -148,7 +158,7 @@
     {
       "date": "2026-07-03",
       "file": "data/digests/2026-07-03.json",
-      "posture": "Quiet end-of-week scan \u2014 no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the week's strongest 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
+      "posture": "Quiet end-of-week scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the week's strongest 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
       "counts": {
         "act": 0,
         "watch": 0,
@@ -158,7 +168,7 @@
     {
       "date": "2026-07-02",
       "file": "data/digests/2026-07-02.json",
-      "posture": "Quiet midweek scan \u2014 no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm, and 1 July brought the staged NSW and Victorian FOGO/kerbside-standardisation milestones, but these are regulatory-rollout dates rather than fresh innovation signals; the week's strongest 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
+      "posture": "Quiet midweek scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm, and 1 July brought the staged NSW and Victorian FOGO/kerbside-standardisation milestones, but these are regulatory-rollout dates rather than fresh innovation signals; the week's strongest 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
       "counts": {
         "act": 0,
         "watch": 0,
@@ -168,7 +178,7 @@
     {
       "date": "2026-07-01",
       "file": "data/digests/2026-07-01.json",
-      "posture": "Quiet midweek scan \u2014 no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the week's strongest 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
+      "posture": "Quiet midweek scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) remain warm but produced no fresh, in-window council announcement today; the week's strongest 'adopt' material remains the 2026 National Awards for Local Government already logged on 29 June.",
       "counts": {
         "act": 0,
         "watch": 0,
@@ -178,7 +188,7 @@
     {
       "date": "2026-06-30",
       "file": "data/digests/2026-06-30.json",
-      "posture": "Quiet midweek scan \u2014 no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) are all warm but produced no fresh, in-window council announcement today; the week's strongest 'adopt' material remains the 2026 National Awards already logged on 29 June.",
+      "posture": "Quiet midweek scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) are all warm but produced no fresh, in-window council announcement today; the week's strongest 'adopt' material remains the 2026 National Awards already logged on 29 June.",
       "counts": {
         "act": 0,
         "watch": 0,
@@ -188,7 +198,7 @@
     {
       "date": "2026-06-29",
       "file": "data/digests/2026-06-29.json",
-      "posture": "Catch-up edition (7-day window). The week's clearest, most transferable innovation signal was the 2026 National Awards for Local Government (announced 23 June) \u2014 a deep bench of judged, replicable council projects spanning road safety, sustainable housing, resilient asset rebuilds, libraries and workforce \u2014 against a backdrop of active but mostly just-out-of-window waste/circular-economy moves.",
+      "posture": "Catch-up edition (7-day window). The week's clearest, most transferable innovation signal was the 2026 National Awards for Local Government (announced 23 June) — a deep bench of judged, replicable council projects spanning road safety, sustainable housing, resilient asset rebuilds, libraries and workforce — against a backdrop of active but mostly just-out-of-window waste/circular-economy moves.",
       "counts": {
         "act": 8,
         "watch": 1,

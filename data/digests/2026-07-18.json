@@ -1,0 +1,103 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T06:30:00+10:00",
+  "posture": "AI moved from single-council experiment toward sector infrastructure today: MAV and ALGA stood up a National AI Working Group while three Adelaide councils jointly bought a four-year AI partner — two different answers to the same question of how a 538-council sector builds AI capability it cannot build alone. Wollongong supplied the day's world-first, and Saturday's watchlist scan produced real yield.",
+  "summary": "Five in-window signals (17–18 July) across §1a–§1d plus the Saturday §1e 50-council watchlist. The through-line is collective capability: the MAV/ALGA national working group and the Charles Sturt–Marion–Port Adelaide Enfield shared AI procurement both treat AI capability as something to pool rather than duplicate. Wollongong is first in the world to run Canva's Goals Platform at city scale, Scenic Rim offers a replicable nature-based flood-resilience model funded through DRFA Efficiencies, and Staffordshire (UK) puts a council at the centre of regional AI economic development. Note: this digest follows 13 consecutive empty days in the manifest — see the reply summary; that run appears to reflect scan failure rather than a quiet sector.",
+  "counts": {
+    "act": 1,
+    "watch": 2,
+    "inform": 2
+  },
+  "sections": [
+    {
+      "category": "Digital, data & AI / customer service",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Wollongong becomes first city worldwide to run Canva's Goals Platform for community engagement",
+          "summary": "Wollongong City Council has partnered with Canva to pilot the Global Goals Platform at city and community level — a first anywhere in the world. Residents nominate one goal each for their suburb, for Australia and for the world, via wollongonggoals.org or on postcards at pop-ups, named or anonymously, with submissions closing in September and results published as an interactive data visualisation.",
+          "so_what": "A council reaching roughly 220,000 residents is testing whether a consumer-grade design platform can capture the voices that never show up at a public meeting, then feeding the result back as a check-in against its Community Strategic Plan. Any council running IP&R engagement could watch this as a model for low-barrier, high-volume input — and for pairing a corporate partner's reach with existing statutory engagement rather than replacing it.",
+          "tags": [
+            "AU-council",
+            "Digital, data & AI / customer service"
+          ],
+          "source": "City of Wollongong (via Mirage News)",
+          "url": "https://www.miragenews.com/wollongong-goes-global-with-exciting-tech-1711702/",
+          "published": "2026-07-17",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "MAV and ALGA stand up a National AI Working Group for local government",
+          "summary": "The Municipal Association of Victoria is part of a new National AI Working Group for Local Government formed with the Australian Local Government Association, and will soon launch a Local Government AI Roadmap developed with an AI taskforce of council, industry and academic leaders. MAV's existing Advancing AI Innovation program already includes an AI Procurement Register and award-winning work on AI in statutory planning.",
+          "so_what": "MAV's argument is that AI should be tackled as one sector rather than as 538 separate councils — which makes the forthcoming Roadmap and the existing AI Procurement Register free, reusable assets for any Australian council that lacks the scale to build its own AI governance. Worth watching for the Roadmap launch date.",
+          "tags": [
+            "AU-council",
+            "Digital, data & AI / customer service"
+          ],
+          "source": "Council Magazine",
+          "url": "https://councilmagazine.com.au/mav-leads-national-collaboration-on-local-government-ai",
+          "published": "2026-07-17",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Governance, procurement & workforce",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Three Adelaide councils jointly appoint a shared AI and data partner on a four-year contract",
+          "summary": "The Cities of Charles Sturt, Marion and Port Adelaide Enfield have appointed South Australian consultancy Bailey Abbott as strategic AI and data partner under a four-year, multi-million-dollar contract awarded through an open EOI. The scope runs from AI discovery and readiness assessments through co-designed use cases and council AI roadmaps to pilot programs and scaled implementation, with a joint steering committee covering data governance and ethics.",
+          "so_what": "This is a shared-services answer to the AI capability gap: three mid-size metropolitan councils pooling one procurement instead of each running a separate tender, with reported IP reuse rights across the group. Councils facing the workforce shortage but lacking in-house AI skills could copy the structure — a joint EOI plus a shared governance committee — more readily than they could copy any single use case.",
+          "tags": [
+            "AU-council",
+            "Governance, procurement & workforce"
+          ],
+          "source": "ARN (Australian Reseller News)",
+          "url": "https://www.arnnet.com.au/article/4198090/consultancy-bailey-abbott-partners-with-three-adelaide-councils.html",
+          "published": "2026-07-17",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Climate, energy & biodiversity",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Scenic Rim reshapes Upper Warrill Creek in a $6.7m nature-based flood-resilience build",
+          "summary": "Major earthworks are underway on a $6.7 million project along Upper Warrill Creek, a Bremer River tributary running through the Scenic Rim and Ipswich local government areas. The works reshape eroded banks, stabilise slopes and establish more than 20,000 native plants to slow floodwaters, protect farmland and cut sediment reaching Moreton Bay. It is funded through the jointly funded Federal–State Disaster Recovery Funding Arrangements (DRFA) Efficiencies Funding Program.",
+          "so_what": "The transferable part is the funding pathway as much as the engineering: DRFA Efficiencies money is being spent on nature-based catchment works that prevent the next flood bill rather than repairing the last one. Any council with a repeatedly damaged waterway and a DRFA history could pursue the same route, with revegetation delivering erosion control, habitat and downstream water-quality gains from one budget line.",
+          "tags": [
+            "AU-council",
+            "Climate, energy & biodiversity"
+          ],
+          "source": "Council Magazine",
+          "url": "https://councilmagazine.com.au/flood-resilience-works-to-protect-waterways-and-agriculture",
+          "published": "2026-07-17",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Community, libraries & placemaking",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Staffordshire council puts itself at the centre of a regional AI economic-growth push",
+          "summary": "Staffordshire County Council has published an AI Business Case targeting roughly £2bn of economic uplift by 2030, built around AI-adoption support for local businesses through the Stoke-on-Trent and Staffordshire Growth Hub, a proposed 'Virtual AI Skills Academy' and digital infrastructure partnerships. It goes to the Economy, Infrastructure and Communities Scrutiny Committee on 21 July before cabinet later this year.",
+          "so_what": "A council casting itself as the convenor of AI adoption across its local economy — not just a user of AI internally — is a live template for Australian councils with economic-development mandates. Early enough that the interesting part is the business-case structure and the growth-hub delivery vehicle; worth revisiting after scrutiny reports back.",
+          "tags": [
+            "UK",
+            "Community, libraries & placemaking"
+          ],
+          "source": "LocalGov.co.uk",
+          "url": "https://www.localgov.co.uk/Staffordshire-CC-unveils-plans-to-lead-in-AI-adoption/64689",
+          "published": "2026-07-17",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}

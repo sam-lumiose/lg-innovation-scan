@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-07-19",
+      "file": "data/digests/2026-07-19.json",
+      "posture": "Quiet Sunday scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, AI workforce readiness, smart communities) remain warm but produced no fresh, in-window council announcement today; Saturday's watchlist yield (Wollongong's Canva Goals world-first, the MAV/ALGA National AI Working Group and the three-council Adelaide AI partnership, all logged 18 July) is not repeated here.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
+    },
+    {
       "date": "2026-07-18",
       "file": "data/digests/2026-07-18.json",
       "posture": "AI moved from single-council experiment toward sector infrastructure today: MAV and ALGA stood up a National AI Working Group while three Adelaide councils jointly bought a four-year AI partner — two different answers to the same question of how a 538-council sector builds AI capability it cannot build alone. Wollongong supplied the day's world-first, and Saturday's watchlist scan produced real yield.",

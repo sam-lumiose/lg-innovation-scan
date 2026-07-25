@@ -6,6 +6,36 @@
   },
   "digests": [
     {
+      "date": "2026-07-25",
+      "file": "data/digests/2026-07-25.json",
+      "posture": "Near-quiet Saturday scan — the AI-governance frontier is diffusing to smaller regional councils, but the day produced only one fresh, in-window, in-scope signal. The circular-economy stream was active this week (a $3.7m WA Recycling Modernisation Fund round to 16 regional/remote councils) but that cluster broke ~22 July, just outside the 24-hour window; the sector's other live frontiers (FOGO, AI-assisted development assessment, smart communities) generated no new dated council event in the last 24 hours.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 1
+      }
+    },
+    {
+      "date": "2026-07-24",
+      "file": "data/digests/2026-07-24.json",
+      "posture": "Quiet Friday scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, AI workforce readiness, smart communities) remain warm but produced no fresh, in-window council announcement today; the strongest in-scope material was either out of window (City of Moreton Bay's Australian-first AI traffic-signal trial and Moorabool Shire's national HR 'Best Use of AI' award, both mid-July) or recurring background (the NSW commercial FOGO source-separation mandate, MAV's national planning/AI work) rather than a new dated event.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
+    },
+    {
+      "date": "2026-07-23",
+      "file": "data/digests/2026-07-23.json",
+      "posture": "Quiet Thursday scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, AI workforce readiness, smart communities) remain warm but produced no fresh, in-window council announcement today; the strongest in-scope material (the Transport for NSW–led Asset AI road-condition program now extending to a dozen regional and metro councils) is an existing, ongoing rollout with its next expansion flagged for September rather than a new dated event.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
+    },
+    {
       "date": "2026-07-22",
       "file": "data/digests/2026-07-22.json",
       "posture": "Quiet Wednesday scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, AI workforce readiness, smart communities) remain warm but produced no fresh, in-window council announcement today; the strongest in-scope material sits just outside the 24-hour window (City of Moreton Bay's Australian-first AI traffic-signal trial, publicised ~2–15 July) rather than being a new dated event.",

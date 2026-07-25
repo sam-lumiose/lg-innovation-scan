@@ -1,0 +1,32 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T09:09:01+10:00",
+  "posture": "Near-quiet Saturday scan — the AI-governance frontier is diffusing to smaller regional councils, but the day produced only one fresh, in-window, in-scope signal. The circular-economy stream was active this week (a $3.7m WA Recycling Modernisation Fund round to 16 regional/remote councils) but that cluster broke ~22 July, just outside the 24-hour window; the sector's other live frontiers (FOGO, AI-assisted development assessment, smart communities) generated no new dated council event in the last 24 hours.",
+  "summary": "One in-window signal (24 July) from the free §1a–§1d sources plus the Saturday §1e 50-council watchlist deep scan: Gunnedah Shire Council has put a draft Artificial Intelligence Policy on public exhibition, an example of AI governance moving beyond metro leaders to smaller regional councils. Reviewed and excluded: the $3.7m Recycling Modernisation Fund round shared by 16 regional/remote WA councils and the related DCCEEW/WA joint release (widely covered ~22 July across Mirage News, Waste Management Review and Inside Waste) sit just outside the 24-hour window and are grant-funding distribution rather than a novel pilot; the NSW EPA Local Government Waste Solutions Fund 'problematic waste' round traces to a 2024 media release (out of period); City of Casey's Smart Casey Program 2026–2029 (May), City of Newcastle's refined Smart City Strategy (exhibited to 10 July) and the Wollongong–Canva Goals world-first, MAV/ALGA National AI Working Group and three-council Adelaide AI partnership (all 17–18 July, already logged) are prior-period; and the Commonwealth's new Office of AI within PM&C (15 July) is a federal machinery-of-government change outside the §3b council-function scope. The Saturday §1e watchlist newsroom and business-paper scan surfaced no fresh in-scope Notice of Motion or committee item within the window. Paid titles (AFR/SMH/LGC/MJ) were held to headline + standfirst and not used.",
+  "counts": {
+    "act": 0,
+    "watch": 0,
+    "inform": 1
+  },
+  "sections": [
+    {
+      "category": "Governance, procurement & workforce",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Gunnedah puts a draft AI policy on public exhibition, with guardrails on data and statutory decisions",
+          "summary": "Gunnedah Shire Council has released a draft Artificial Intelligence Policy for public comment, setting out how staff, councillors, contractors, consultants, volunteers and service providers may use AI. The draft allows AI only where it offers a clear benefit over other options, bars personal or sensitive information from being entered into generative AI tools, prohibits AI from making statutory or legal decisions, and requires a person to review any AI-produced recommendation. It is on exhibition until 5pm on 13 August.",
+          "so_what": "A smaller regional NSW council formalising AI rules is a sign the governance conversation is diffusing beyond the metro and peak-body leaders (MAV/ALGA's national working group, the Adelaide shared-AI partnership) to the rest of the sector. The draft's structure — a benefit test, a hard line against entering personal data into gen-AI, no AI statutory decisions, and mandatory human review — is a compact template any council still without an AI policy could adapt; awareness-only for now, worth watching for what the adopted version looks like after 13 August.",
+          "tags": [
+            "AU-council",
+            "Governance, procurement & workforce"
+          ],
+          "source": "Gunnedah Times",
+          "url": "https://gunnedahtimes.com.au/2026/07/24/council-drafts-rules-for-ai-use-2/",
+          "published": "2026-07-24",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}

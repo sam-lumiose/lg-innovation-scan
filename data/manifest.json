@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-07-26",
+      "file": "data/digests/2026-07-26.json",
+      "posture": "Quiet Sunday scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, AI workforce readiness, smart communities) remain warm but produced no fresh, in-window council announcement today; the strongest in-scope material was either out of window (Gannawarra Shire's 10-year Resource Recovery and Waste Management Strategy adopted 6 July; the Mullumbimby Civic Centre battery grant application, 17 July) or ongoing background (the NSW commercial FOGO source-separation mandate in force from 1 July, the NSW AI Solutions Panel / DAISY development-assessment program) rather than a new dated event.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
+    },
+    {
       "date": "2026-07-25",
       "file": "data/digests/2026-07-25.json",
       "posture": "Near-quiet Saturday scan — the AI-governance frontier is diffusing to smaller regional councils, but the day produced only one fresh, in-window, in-scope signal. The circular-economy stream was active this week (a $3.7m WA Recycling Modernisation Fund round to 16 regional/remote councils) but that cluster broke ~22 July, just outside the 24-hour window; the sector's other live frontiers (FOGO, AI-assisted development assessment, smart communities) generated no new dated council event in the last 24 hours.",

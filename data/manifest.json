@@ -6,6 +6,66 @@
   },
   "digests": [
     {
+      "date": "2026-08-07",
+      "file": "data/digests/2026-08-07.json",
+      "posture": "Quiet Friday scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, AI workforce/governance, smart communities) stay warm but produced no fresh, in-window council announcement today; the strongest in-scope material was either out of window (Moira Shire's resident Emergency Dashboard and Swan Hill's Spendmapp/CityCompass economic-insights tools, both logged 6 August; Port Macquarie-Hastings' mobile licence-plate-recognition parking trial) or ongoing background (the NSW AI Solutions Panel / DAISY development-assessment program; the NSW commercial FOGO source-separation mandate phasing in from 1 July).",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "file": "data/digests/2026-08-06.json",
+      "posture": "A modest Thursday scan with two fresh, in-scope council signals — both from regional Victoria and both about turning data into a resident-facing service. The day's theme is unglamorous but transferable: consolidating live agency feeds and third-party spending data into public dashboards, rather than any marquee AI or circular-economy pilot. The sector's hotter frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) stayed warm but produced no fresh in-window announcement.",
+      "counts": {
+        "act": 1,
+        "watch": 0,
+        "inform": 1
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "file": "data/digests/2026-08-05.json",
+      "posture": "Quiet Wednesday scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, AI workforce/governance, smart communities) stay warm but produced no fresh, in-window council announcement today; the strongest in-scope material was either out of window (Wollongong City Council's world-first Canva 'Goals Platform' community-engagement pilot; the ACT FOGO multi-unit-dwelling pilot expansion) or ongoing background (the NSW AI Solutions Panel / DAISY development-assessment program now reporting ~20% faster assessments across early-adopter councils; the NSW commercial FOGO source-separation mandate phasing in from 1 July).",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
+    },
+    {
+      "date": "2026-08-03",
+      "file": "data/digests/2026-08-03.json",
+      "posture": "Quiet Monday scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, AI workforce/governance, smart communities) stay warm but produced no fresh, in-window council announcement today; the strongest in-scope material was out of window (Wollongong City Council's world-first Canva 'Goals Platform' community-engagement pilot, announced July 2026) or ongoing background (the NSW AI Solutions Panel / DAISY development-assessment program and its Early Adopter council grants; the NSW commercial FOGO source-separation mandate phasing in from 1 July).",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
+    },
+    {
+      "date": "2026-07-29",
+      "file": "data/digests/2026-07-29.json",
+      "posture": "Quiet Wednesday scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, AI workforce/governance, smart communities) stay warm but produced no fresh, in-window council announcement today; national machinery moved (the Commonwealth's new Office of AI and Australian AI Standards, announced 15 July) but that is whole-of-government policy rather than a council-function innovation, and the strongest in-scope material remained ongoing background (NSW AI Solutions Panel / DAISY development-assessment program; the NSW FOGO business mandate that began phasing in from 1 July).",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
+    },
+    {
+      "date": "2026-07-28",
+      "file": "data/digests/2026-07-28.json",
+      "posture": "Quiet Tuesday scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, AI workforce/governance, smart communities) stay warm but produced no fresh, in-window council announcement today; the strongest in-scope material was well out of window (Hawkesbury City Council's Australian-first black-soldier-fly waste-to-resource trial, publicised March and again November 2025; Boroondara's 200-basket Container Deposit Scheme bin trial, 17 July) or ongoing background (the NSW AI Solutions Panel / DAISY development-assessment program on the Early Adopter Councils track).",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
+    },
+    {
       "date": "2026-07-27",
       "file": "data/digests/2026-07-27.json",
       "posture": "Quiet Monday scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, AI workforce/governance, smart communities) stay warm but produced no fresh, in-window council announcement today; the strongest in-scope material was out of window (the Council of Mayors SEQ multi-unit food-scrap recycling trial, dated 1 July) or ongoing background (the NSW AI Solutions Panel / DAISY development-assessment program on the NSW Early Adopter Councils track, the NSW commercial FOGO source-separation mandate in force from 1 July).",

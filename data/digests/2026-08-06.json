@@ -1,0 +1,46 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T08:10:00+10:00",
+  "posture": "A modest Thursday scan with two fresh, in-scope council signals — both from regional Victoria and both about turning data into a resident-facing service. The day's theme is unglamorous but transferable: consolidating live agency feeds and third-party spending data into public dashboards, rather than any marquee AI or circular-economy pilot. The sector's hotter frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) stayed warm but produced no fresh in-window announcement.",
+  "summary": "Two in-window signals (5 August) from the free §1a-§1b Australian sources, both in the digital/data customer-service space and both replicable by other councils. Moira Shire (VIC) launched a resident Emergency Dashboard aggregating live feeds from a dozen-plus agencies (CFA, SES, BoM, VicTraffic, Powercor, water authorities and others) with 14-language support — a proven, low-cost 'adopt' pattern. Swan Hill Rural City (VIC) began using the Spendmapp and CityCompass data tools for economic development and will publish Monthly Economic Insights Reports, a lighter 'horizon' signal given the tools are commercial and already used across the sector. Items reviewed and excluded: Port Macquarie-Hastings Council's Mobile Licence Plate Recognition (MLPR) parking-enforcement trial in the CBD (Inside Local Government, published 4 August) is a genuine in-scope roads/parking trial but falls just outside the 24-hour window and is a tech already used in other LGAs; the City of Moreton Bay 'Australia's first AI traffic lights' pilot at Petrie (Council Magazine / The Conversation, mid-July) is out of window and prior-period; the LGA South Australia 2026-27 Local Government Research and Development Scheme grant round opened 5 August with ~$1.3m available but is a recurring funding-mechanism EOI rather than a fresh innovation itself; and the widely covered AI-governance report showing council oversight lagging is thought-leadership, not a dated pilot. Overseas equal-weight outlets (Bloomberg Cities, Route Fifty, Cities Today, Apolitical, LGIU/LocalGov.co.uk, LGNZ) and the §1d tertiary/research institutes (ANZSOG, UTS/IPPG, UNSW City Futures, the UK/US/Canada centres) returned only evergreen thought-leadership, not a fresh in-window council-function innovation. Paid titles (AFR/SMH/LGC/MJ) were held to headline + standfirst and not used. Today is Thursday, so the §1e 50-council watchlist deep scan (Saturdays only) was not run.",
+  "counts": {
+    "act": 1,
+    "watch": 0,
+    "inform": 1
+  },
+  "sections": [
+    {
+      "category": "Digital, data & AI / customer service",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Moira Shire launches a resident Emergency Dashboard pulling live feeds from a dozen-plus agencies",
+          "summary": "Moira Shire Council (VIC) has launched an online Emergency Dashboard that consolidates real-time data from more than a dozen agencies — including the CFA, Victoria SES, VicEmergency, the Bureau of Meteorology, VicTraffic, Powercor and several water authorities — into a single resident-facing view. An interactive map shows fire danger ratings, active incidents, weather warnings, road closures, power and water outages, school closures and relief-centre locations, with 14-language support and access on any device.",
+          "so_what": "This is a proven, low-cost customer-service pattern any Australian council could adopt ahead of the fire and flood season: aggregate existing free agency feeds into one multilingual dashboard so residents don't have to hop between a dozen websites during an emergency. The transferable parts are the agency-feed list and the multilingual, mobile-first delivery — a data-integration job rather than a bespoke build.",
+          "tags": [
+            "AU-council",
+            "Digital, data & AI / customer service"
+          ],
+          "source": "Inside Local Government",
+          "url": "https://insidelocalgovernment.com.au/moira-shire-council-launches-emergency-dashboard-for-residents/",
+          "published": "2026-08-05",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Swan Hill turns spending data into an open economic-development tool with monthly public insight reports",
+          "summary": "Swan Hill Rural City Council (VIC) has adopted the Spendmapp and CityCompass data platforms to track how and where money is spent across the region — spending trends, visitor activity and gaps where more goods and services could be provided locally. Council will publish Monthly Economic Insights Reports so businesses, investors and residents get a regular open snapshot of local economic performance.",
+          "so_what": "The tools themselves are commercial and already used by many councils, so the awareness-level signal here is the open-publishing angle: routinely releasing council-held spending analytics as public monthly reports to steer local business support and investment. Any council with an economic-development strategy could copy the transparency practice more readily than the platform choice.",
+          "tags": [
+            "AU-council",
+            "Digital, data & AI / customer service"
+          ],
+          "source": "Inside Local Government",
+          "url": "https://insidelocalgovernment.com.au/swan-hill-council-deploys-new-data-tools-to-drive-business-growth/",
+          "published": "2026-08-05",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}

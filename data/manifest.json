@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-08-10",
+      "file": "data/digests/2026-08-10.json",
+      "posture": "A quiet Monday scan with a single fresh, in-scope signal — an early-stage, climate/circular-economy idea rather than a marquee AI or waste pilot. Shoalhaven's move to repurpose a capped former landfill for a community solar-and-battery hub is the day's one transferable signal, at the awareness/horizon end of the spectrum. The sector's hotter frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) stayed warm but produced no fresh in-window council announcement.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 1
+      }
+    },
+    {
       "date": "2026-08-07",
       "file": "data/digests/2026-08-07.json",
       "posture": "Quiet Friday scan — no confirmable new, in-scope innovation signal surfaced in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, AI workforce/governance, smart communities) stay warm but produced no fresh, in-window council announcement today; the strongest in-scope material was either out of window (Moira Shire's resident Emergency Dashboard and Swan Hill's Spendmapp/CityCompass economic-insights tools, both logged 6 August; Port Macquarie-Hastings' mobile licence-plate-recognition parking trial) or ongoing background (the NSW AI Solutions Panel / DAISY development-assessment program; the NSW commercial FOGO source-separation mandate phasing in from 1 July).",

@@ -1,0 +1,32 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T15:28:21+10:00",
+  "posture": "A quiet Monday scan with a single fresh, in-scope signal — an early-stage, climate/circular-economy idea rather than a marquee AI or waste pilot. Shoalhaven's move to repurpose a capped former landfill for a community solar-and-battery hub is the day's one transferable signal, at the awareness/horizon end of the spectrum. The sector's hotter frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) stayed warm but produced no fresh in-window council announcement.",
+  "summary": "One in-window, in-scope signal from the free §1a Australian council sources. Shoalhaven City Council (NSW) endorsed a draft plan of management that identifies a capped former North Nowra landfill as a site for a community renewable-energy hub (solar array plus battery storage), to be leased to an energy provider once statutory consultation is complete — a horizon-level 'repurpose a closed landfill' idea. Items reviewed and excluded: NSW EPA litter-hotspot grant funding and the NSW Circular Markets FOGO-compost grants are funding mechanisms rather than fresh innovations; several same-day council items (City of Whittlesea inclusive-sports grants, Nillumbik library family-violence disclosure training, Norwood Payneham & St Peters public-artwork lighting, Shellharbour youth summit, Coffs Aboriginal cultural-heritage plan) are community/governance activity outside the innovation-keyword set; and the UK MHCLG/i.AI planning-consultation AI tools (LocalGov / MHCLG Digital) were out of the 24-hour window (late July). AU industry verticals in waste and roads (Waste Management Review, Roads & Infrastructure, Infrastructure Magazine) surfaced only evergreen recycled-materials and circular-economy pieces, no fresh in-window council pilot. Overseas equal-weight outlets (Bloomberg Cities, Route Fifty, Cities Today, Apolitical, LGIU / LocalGov.co.uk, LGNZ) and the §1d tertiary/research institutes (ANZSOG, UTS/IPPG, UNSW City Futures, the UK/US/Canada centres) returned only evergreen thought-leadership. Paid titles (AFR/SMH/LGC/MJ) were held to headline + standfirst and not used. Today is Monday, so the §1e 50-council watchlist deep scan (Saturdays only) was not run.",
+  "counts": {
+    "act": 0,
+    "watch": 0,
+    "inform": 1
+  },
+  "sections": [
+    {
+      "category": "Climate, energy & biodiversity",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Shoalhaven eyes a capped former landfill for a community solar-and-battery energy hub",
+          "summary": "Shoalhaven City Council (NSW) has endorsed a draft plan of management identifying a remediated, clay-capped former landfill at North Nowra (an 11.36 ha site closed since 1979) as suitable for renewable-energy infrastructure, including a solar array and battery storage. The Council frames it as turning a long-term liability into a productive community asset and intends to lease the site to a renewable-energy provider, with two rounds of statutory consultation with Crown Lands and the NSW EPA still to run before the land can be used.",
+          "so_what": "Many Australian councils sit on remediated former landfill and other constrained Crown or community land that cannot be built on but can host solar and storage. The transferable pattern here is the governance model — a plan of management that reclassifies a capped tip for electricity generation, then leases it to an energy operator for both a local renewable benefit and a council income stream — a climate/asset play any council with a closed landfill could examine, though it remains an early-stage proposal rather than a proven build.",
+          "tags": [
+            "AU-council",
+            "Climate, energy & biodiversity"
+          ],
+          "source": "Inside Local Government",
+          "url": "https://insidelocalgovernment.com.au/former-nowra-landfill-site-eyed-for-renewable-energy-hub/",
+          "published": "2026-08-10",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}

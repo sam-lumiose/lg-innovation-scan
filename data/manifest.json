@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-08-12",
+      "file": "data/digests/2026-08-12.json",
+      "posture": "A quiet mid-week scan with one fresh, in-scope signal — a research/governance signal rather than a marquee pilot. The strongest item is a new QUT report setting out how councils should govern AI as they roll it into statutory and customer-facing work, republished across the sector this week. The hotter frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) stayed warm but produced no fresh in-window council announcement.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 1
+      }
+    },
+    {
       "date": "2026-08-10",
       "file": "data/digests/2026-08-10.json",
       "posture": "A quiet Monday scan with a single fresh, in-scope signal — an early-stage, climate/circular-economy idea rather than a marquee AI or waste pilot. Shoalhaven's move to repurpose a capped former landfill for a community solar-and-battery hub is the day's one transferable signal, at the awareness/horizon end of the spectrum. The sector's hotter frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) stayed warm but produced no fresh in-window council announcement.",

@@ -1,0 +1,32 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T08:20:00+10:00",
+  "posture": "A quiet mid-week scan with one fresh, in-scope signal — a research/governance signal rather than a marquee pilot. The strongest item is a new QUT report setting out how councils should govern AI as they roll it into statutory and customer-facing work, republished across the sector this week. The hotter frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) stayed warm but produced no fresh in-window council announcement.",
+  "summary": "One in-window, in-scope signal today, at the awareness/horizon end of the spectrum. QUT's City 4.0 Lab / Urban AI Hub released 'Responsible Artificial Intelligence in Local Government', a report examining how councils across five countries (including Australia) are deploying AI and setting out six priorities for responsible adoption; it was widely republished on 10-11 August (The Conversation, Route Fifty, Mirage News), citing live Australian examples (Brimbank City Council's computer-vision waste trucks and the City of Stirling's AI resident-engagement platform). Items reviewed and excluded as out-of-window or already covered: Port Macquarie-Hastings Council's mobile licence-plate-recognition parking-enforcement trial (announced 4 August, outside the 24-hour window); the Hawkesbury/ARC Ento Tech black-soldier-fly waste-to-resource trial (a March 2025 announcement, not fresh); and SA's Local Government Research & Development grant round (a funding mechanism, not an innovation). AU industry verticals in waste and roads (Waste Management Review, Inside Waste, Roads & Infrastructure, Infrastructure Magazine) surfaced only evergreen circular-economy and recycled-materials pieces, no fresh in-window council pilot. Overseas equal-weight outlets (Bloomberg Cities, Route Fifty, Cities Today, Apolitical, LGIU / LocalGov.co.uk, LGNZ) and the §1d tertiary/research institutes (ANZSOG, UTS/IPPG, the UK/US/Canada centres) returned only evergreen thought-leadership. Paid titles (AFR/SMH/LGC/MJ) were held to headline + standfirst and not used. Today is Wednesday, so the §1e 50-council watchlist deep scan (Saturdays only) was not run.",
+  "counts": {
+    "act": 0,
+    "watch": 0,
+    "inform": 1
+  },
+  "sections": [
+    {
+      "category": "Digital, data & AI / customer service",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "QUT report maps six governance priorities for councils rolling out AI",
+          "summary": "Researchers at QUT's City 4.0 Lab / Urban AI Hub have published 'Responsible Artificial Intelligence in Local Government', a report examining how councils across five countries (including Australia) are already using AI in customer service, planning enquiries, infrastructure and environmental management. It argues AI adoption is outpacing the governance needed to use it responsibly, and sets out six priorities: clear accountability, organisational capability, data and technical safeguards, transparency and human review, community participation, and workforce preparation. The work was widely republished across the sector on 10-11 August via The Conversation, Route Fifty and Mirage News.",
+          "so_what": "This gives any Australian council standing up AI in statutory or customer-facing work a ready-made governance checklist to pressure-test its own approach, rather than building one from scratch. It also points to transferable local examples worth studying: Brimbank City Council's computer-vision cameras on waste-collection vehicles that flag damaged roadside assets (an asset-management dividend from an existing fleet), and the City of Stirling's AI-supported resident-engagement platform for consultations. It is a framework and awareness signal, not a proven product, so its value is in shaping policy and procurement before a council scales AI.",
+          "tags": [
+            "AU-research",
+            "Digital, data & AI / customer service"
+          ],
+          "source": "QUT ePrints (City 4.0 Lab) / The Conversation",
+          "url": "https://eprints.qut.edu.au/267013/",
+          "published": "2026-08-10",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}

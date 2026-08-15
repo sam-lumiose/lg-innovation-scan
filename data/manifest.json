@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-08-15",
+      "file": "data/digests/2026-08-15.json",
+      "posture": "A quiet Saturday scan — including the fortnightly-lumpy §1e 50-council watchlist deep scan — surfaced no fresh, in-scope innovation signal in the last 24 hours. The sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, AI workforce/governance, smart communities) stay warm but produced no fresh, in-window council announcement today.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
+    },
+    {
       "date": "2026-08-12",
       "file": "data/digests/2026-08-12.json",
       "posture": "A quiet mid-week scan with one fresh, in-scope signal — a research/governance signal rather than a marquee pilot. The strongest item is a new QUT report setting out how councils should govern AI as they roll it into statutory and customer-facing work, republished across the sector this week. The hotter frontiers (FOGO/circular economy, AI-assisted development assessment, smart communities) stayed warm but produced no fresh in-window council announcement.",

@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-08-17",
+      "file": "data/digests/2026-08-17.json",
+      "posture": "A thin Monday scan with one clear, in-window signal — and it is a regulatory innovation rather than a technology pilot. NSW has switched on Australia's first authorisation regime for shared e-bike operators, handing councils real levers (approval rights, penalty powers, parking and go-slow zones, and a grant pool) over a micromobility market that until last week could deploy on their footpaths unasked. The other active frontiers — FOGO and circular economy, AI-assisted development assessment, smart communities — stayed warm but produced no fresh in-window council announcement.",
+      "counts": {
+        "act": 0,
+        "watch": 1,
+        "inform": 0
+      }
+    },
+    {
       "date": "2026-08-16",
       "file": "data/digests/2026-08-16.json",
       "posture": "A quiet Sunday scan — no confirmable new, in-scope innovation signal in the last 24 hours. Weekends yield little fresh council news, and the sector's active frontiers (FOGO/circular economy, AI-assisted development assessment, AI workforce/governance, smart communities) stayed warm but produced no fresh, in-window council announcement today.",

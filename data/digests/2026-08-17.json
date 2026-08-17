@@ -1,0 +1,32 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T18:20:00+10:00",
+  "posture": "A thin Monday scan with one clear, in-window signal — and it is a regulatory innovation rather than a technology pilot. NSW has switched on Australia's first authorisation regime for shared e-bike operators, handing councils real levers (approval rights, penalty powers, parking and go-slow zones, and a grant pool) over a micromobility market that until last week could deploy on their footpaths unasked. The other active frontiers — FOGO and circular economy, AI-assisted development assessment, smart communities — stayed warm but produced no fresh in-window council announcement.",
+  "summary": "One in-window, in-scope signal today, at the trial end of the spectrum: NSW's first-in-Australia shared e-bike authorisation laws, in force from 14 August and reported across the sector on 16 August. Items reviewed and excluded as out-of-window: Brisbane City Council's Lynxight AI drowning-detection trial at Runcorn Aquatic Centre and Yeronga Memorial Pool (Inside Local Government, 11 August); the Route Fifty / The Conversation commentary by QUT researchers on whether councils are adopting AI wisely (10 August, and substantially the same QUT work already carried in the 12 August digest); and the City of Canada Bay waste app relaunch (10 August). The LG Innovate 2026 AI summit notice (17 August) was excluded as sponsored event promotion rather than an innovation signal. AU industry verticals (Waste Management Review, Inside Waste, Roads & Infrastructure, Infrastructure Magazine, IPWEA) surfaced only evergreen circular-economy, e-waste and sorting-technology material with no fresh in-window council pilot; Government News' most recent local-government items date to late July. Overseas equal-weight outlets (Bloomberg Cities, Route Fifty, Cities Today, GovTech, Apolitical, LGIU / LocalGov.co.uk, LGNZ / Taituara) and the §1d tertiary and research institutes (ANZSOG, UTS/IPPG, INLOGOV, the US and Canadian centres) returned only evergreen thought-leadership or items outside the 24-hour window — INLOGOV's most recent post (14 August, gender equity in local government) is out of window and out of the innovation frame. Paid titles (AFR/SMH/LGC/MJ) were held to public headline and standfirst only and none were used. Today is Monday, so the §1e 50-council watchlist deep scan (Saturdays only) was not run.",
+  "counts": {
+    "act": 0,
+    "watch": 1,
+    "inform": 0
+  },
+  "sections": [
+    {
+      "category": "Roads, transport & mobility",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "NSW hands councils approval and enforcement powers over shared e-bikes in an Australian-first scheme",
+          "summary": "From 14 August 2026, shared e-bike operators in New South Wales must be authorised by Transport for NSW and by the relevant council before they can deploy devices — the first such requirement in any Australian jurisdiction, replacing an arrangement under which operators could roll out fleets without permission. The regime sets state-wide minimum standards for insurance, helmets, device specification and identification, compels operators to hand over trip, incident and complaint data, and links fleet caps to local demand and performance. Councils gain powers to issue penalties, designate parking bays, and set no-go and go-slow areas, with penalties for operators reaching $55,000 plus $5,500 a day for continuing breaches such as leaving bikes on footpaths, crossings or transport stops. A per-trip levy funds a $6.6 million grant program under which councils can seek up to $200,000 for e-bike parking infrastructure. The government says the new powers will be phased in over coming months.",
+          "so_what": "For NSW councils this converts a long-running public-domain headache — devices dumped across footpaths and access paths — from a complaints problem into a licensable, data-backed regulatory function, with funding attached to build the parking infrastructure that makes compliance possible. Councils in metropolitan Sydney, Newcastle and Wollongong should be scoping parking-zone locations and grant applications now, and asking what the mandated operator data feeds could tell their transport and asset teams about desire lines and hotspots. For councils in other states it is the most substantial Australian template yet for regulating shared micromobility, and worth putting in front of state peak bodies; because the scheme is days old and phasing in, its enforcement burden and effect on footpath clutter are still unproven.",
+          "tags": [
+            "AU-council",
+            "Roads, transport & mobility"
+          ],
+          "source": "LG News Roundup (VLGA-backed) / NSW Government ministerial release",
+          "url": "https://www.lgnewsroundup.com/posts/nsw-introduces-first-in-australia-laws-to-regulate-shared-e-bike-operators/",
+          "published": "2026-08-16",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}

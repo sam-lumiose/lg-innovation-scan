@@ -1,0 +1,98 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T06:40:00+10:00",
+  "posture": "A more productive Tuesday than the last three days, and the strongest signal is unglamorous: council fleet electrification has quietly moved past the passenger-car stage into heavy plant, waste compactors and depot-scale solar charging, with operational and cost numbers attached. Alongside it, two governance-flavoured signals — a judged award for a cultural plan built in-house and inside existing budget, and a shire proposing to lock conservation covenants onto its own bushland — suggest the sector's innovation energy today sits in method and instrument rather than technology. Overseas, a UK council's shift from complaint-driven to risk-scored inspection targeting is the transferable idea worth watching.",
+  "summary": "Five in-window, in-scope signals today: two adopt, one trial, two horizon. The lead item is Government News' 17 August profile of three councils scaling EV fleets beyond passenger vehicles. Also captured: Hawkesbury City Council's LGNSW award for an in-house cultural plan; Mornington Peninsula Shire's proposal to place permanent conservation covenants on council-owned bushland; the Australian Institute of Architects' new national resource on designing with Country (including procurement and IP pathways); and Lewisham Council's data-targeted inspection taskforce in the UK. Reviewed and excluded: Port Stephens Council's frogbit eradication (17 August — a well-executed biosecurity response, but standard method, no innovation signal); the LG Innovate 2026 AI summit notice (sponsored event promotion, and already excluded yesterday); Griffith City Council's CBD landscape design vote and Orange City Council's sustainability expo (routine consultation and event promotion); CFA Victoria's Fuel Availability Factor data trial (state fire agency, not a council function); and several New Zealand and US items outside the AU-council scope or already covered. The Maddocks 'Bridging the Gap' AI governance report (GovTech Review, 5 August) remains out of window. §1b industry verticals returned nothing fresh in window: Inside Waste's newest is 13 August, WMRR 3 August, IPWEA 22 July, ARENA 4 August. §1d research institutes (UTS/IPPG, ANZSOG, UNSW City Futures, RMIT CUR, INLOGOV, Harvard Ash, JHU Bloomberg Cities, U Toronto IMFG) produced nothing in window — Bloomberg Cities' newest post dates to July. Overseas §1c: Route Fifty's newest is 14 August, Cities Today 15 August, GovTech 14 August, LGNZ 14 August, Taituara 11 August, Apolitical 11 August. Paid titles (AFR/SMH/LGC/MJ) were held to public headline and standfirst only and none were used. Today is Tuesday, so the §1e 50-council watchlist deep scan (Saturdays only) was not run. Note for the source register: LGIU ended its LGIU Australia partnership with SGS from 31 July 2026 and no longer produces Australia-specific briefings; the archive remains but the feed will not generate new items.",
+  "counts": {
+    "act": 2,
+    "watch": 1,
+    "inform": 2
+  },
+  "sections": [
+    {
+      "category": "Climate, energy & biodiversity",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Three councils show fleet electrification now works for heavy plant, waste trucks and depot charging — not just the passenger fleet",
+          "summary": "Government News profiled electrification programs at City of Parramatta, Blacktown City and City of Casey that have moved well past sedans and utes. Parramatta runs 22 electric vehicles off a purpose-built solar-powered depot facility with 22 charging bays, and reports roughly 22 tonnes of avoided carbon dioxide and up to $72,000 a year in fuel savings while it scopes light commercial and heavy plant next. Blacktown replaced two ageing diesel trucks with a single custom 27-tonne electric truck that shifts mowers, tractors and equipment daily, citing lower maintenance, lower running costs and less noise; Casey has doubled its electric waste compactors from three to six and reports the stop-start duty cycle of kerbside collection suits them well, alongside electric rugged-terrain vehicles and an electric wicket roller for parks maintenance.",
+          "so_what": "This is the clearest adopt signal in weeks because it is three unrelated councils reporting in-service results with cost and emissions numbers, not a single vendor pilot. Fleet, waste and open-space managers now have a defensible business case for putting electric compactors and heavy plant into the next replacement cycle, and Parramatta's solar depot is the piece most councils underestimate — charging infrastructure, not the vehicles, is the constraint. Worth reading before any council signs its next heavy-vehicle or plant procurement.",
+          "tags": [
+            "AU-council",
+            "Climate, energy & biodiversity"
+          ],
+          "source": "Government News (GN EXTRA)",
+          "url": "https://www.governmentnews.com.au/driving-the-ev-revolution/",
+          "published": "2026-08-17",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Mornington Peninsula Shire floats permanent conservation covenants over its own bushland reserves",
+          "summary": "The Shire has opened consultation on placing permanent conservation covenants across four council-owned bushland reserves at Rosebud, Bittern and Tuerong, which would bind their environmental values in perpetuity while leaving public access unchanged. The reserves include habitat corridors linking protected areas and sites with substantial citizen-science records, including volunteer bird surveys and more than 650 recorded moth and butterfly species. Feedback closes 20 September 2026 before the proposal returns to Council.",
+          "so_what": "Conservation covenants are normally a private-land instrument, so applying one to council-owned open space is a novel governance and asset-management move — it deliberately removes a future council's ability to rezone or dispose of the land. Any council holding high-value bushland that keeps resurfacing in land-sale or development discussions should watch how this consultation lands and how the Shire handles the loss of flexibility. It is at proposal stage only, so treat as awareness rather than a model to copy yet.",
+          "tags": [
+            "AU-council",
+            "Climate, energy & biodiversity"
+          ],
+          "source": "Mornington Peninsula Shire via Mirage News",
+          "url": "https://www.miragenews.com/plan-unveiled-to-safeguard-four-bushland-1728023/",
+          "published": "2026-08-17",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Community, libraries & placemaking",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Hawkesbury takes an LGNSW award for a cultural plan built in-house and costed inside existing budget",
+          "summary": "Hawkesbury City Council won the arts and cultural strategy category at the 2026 Local Government NSW Awards for its Cultural Plan 2025-2029, the council's first in nearly two decades. The plan was developed in-house across an 18-month engagement process drawing on more than 1,000 community contributions, and was deliberately scoped to sit within existing budgets rather than depend on new funding. The council reports it is already being used as an operating framework for investment and service-delivery decisions.",
+          "so_what": "The transferable part is the method, not the document: a judged award for a strategy written without consultants and without a new funding ask is a useful counter-example for any council whose cultural or community planning has stalled on cost. Community services and strategy teams in small and mid-sized councils could lift the in-house engagement approach directly, and the 'fits existing budget' framing is the argument most likely to get such a plan through a cost-constrained council.",
+          "tags": [
+            "AU-council",
+            "Community, libraries & placemaking"
+          ],
+          "source": "Hawkesbury City Council via Mirage News",
+          "url": "https://www.miragenews.com/council-honored-at-prestigious-nsw-awards-night-1727952/",
+          "published": "2026-08-17",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Architects' peak body publishes a free national resource on designing with Country, covering procurement and cultural IP",
+          "summary": "The Australian Institute of Architects, through its First Nations Advisory Committee, has released a free national resource on design guided by Country. It sets out engagement protocols, handling of Indigenous cultural and intellectual property, funding models and procurement pathways.",
+          "so_what": "Councils commissioning public buildings, parks, streetscapes and civic placemaking routinely hit the same two problems this resource addresses — how to engage Traditional Owners properly and how to write cultural IP into a procurement contract. It is guidance from a peak body rather than a proven council program, so treat it as a reference for placemaking and procurement teams to test on the next capital project brief rather than a practice to adopt wholesale.",
+          "tags": [
+            "AU-industry",
+            "Community, libraries & placemaking"
+          ],
+          "source": "Australian Institute of Architects via Mirage News",
+          "url": "https://www.miragenews.com/walk-together-design-guided-by-country-to-shape-1728042/",
+          "published": "2026-08-17",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Digital, data & AI / customer service",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Lewisham switches inspection targeting from complaints to risk scoring, and reports enforcement income more than doubling",
+          "summary": "Lewisham Council in south London has established an enforcement unit that uses its own data and risk profiling to choose which properties to inspect, rather than waiting for complaints. Targets include licensed properties showing compliance concerns, homes suspected of operating unlicensed, and wards already flagged for poor conditions and fly-tipping. The council reports 153 enforcement notices so far this financial year and £160,875 in fines, more than double the previous year, aided by increased penalty powers.",
+          "so_what": "The subject matter — private rental standards — is largely a state function in Australia, so the transferable part is the method: scoring and ranking inspection targets from data the council already holds instead of running complaint-driven rosters. That approach maps cleanly onto food premises inspections, building compliance, pool barrier checks and illegal dumping hotspots, all of which are AU council functions and all of which are typically reactive. It is newly launched with no independent evidence yet that risk scoring beats complaint-driven targeting, so pilot it against a single regulated cohort before rebuilding a whole inspection program around it.",
+          "tags": [
+            "UK",
+            "Digital, data & AI / customer service"
+          ],
+          "source": "LocalGov (UK)",
+          "url": "https://www.localgov.co.uk/Lewisham-launches-taskforce-to-crack-down-on-rogue-landlords/64817",
+          "published": "2026-08-17",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}

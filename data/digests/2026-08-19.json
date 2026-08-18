@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T06:30:00+10:00",
+  "posture": "A quiet Wednesday, and what did surface points the same way: councils getting more out of arrangements and equipment they already have rather than buying something new. The strongest item is a three-council household solar and battery scheme reopening for a second round with real round-one numbers behind it, which is about as clean an 'adopt' signal as the sector produces. Behind it, three regional Victorian councils have finished moving onto a single shared cloud platform and a remote NT council has rebuilt its fleet oversight around satellite-backed telematics — both are joint-capacity plays aimed squarely at the workforce squeeze. Overseas and research sources were effectively empty in the window.",
+  "summary": "Four items today, all Australian. Household electrification via multi-council bulk-buy is the proven, replicable idea; shared back-office platforms and satellite fleet telematics are the capacity-building signals underneath it. The overseas register (LGIU, LocalGov.co.uk, Bloomberg Cities, Route Fifty, GovTech, Cities Today, Apolitical, LGNZ, Taituara) and the full tertiary/research register produced nothing published in the window that passed the scope filter — the one dated UK item, Croydon's GPS-tagging proposal for repeat shoplifters, is retail-crime enforcement and is out of scope for Australian council functions.",
+  "counts": {
+    "act": 2,
+    "watch": 1,
+    "inform": 1
+  },
+  "sections": [
+    {
+      "category": "Climate, energy & biodiversity",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Three Hunter councils reopen their joint solar-and-battery bulk-buy, this time including small business, landlords and EV chargers",
+          "summary": "Newcastle, Lake Macquarie and Maitland councils have opened round two of Solar Neighbourhoods, a jointly run scheme that pre-negotiates vetted solar, battery and EV-charger packages so households do not have to compare offers themselves. Round one drew about $5 million of community investment across 158 solar systems and 167 batteries, and the councils are now discussing a targeted battery rebate pilot for low-income and social housing with the NSW Government.",
+          "so_what": "This is a climate strategy that a council can actually deliver with a small team: the councils supply trust, aggregation and a discount rather than capital, and the model transfers directly to any neighbouring group of LGAs with a net-zero commitment and no budget to fund one. Recycling the displaced old panels through the council waste facility closes an obvious loop that most bulk-buys leave open.",
+          "tags": ["AU-council", "Climate, energy & biodiversity"],
+          "source": "City of Newcastle (media release)",
+          "url": "https://newcastle.nsw.gov.au/about-us/news-and-updates/latest-news/award-winning-solar-and-battery-program-back-by-popular-demand",
+          "published": "2026-08-18",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Routine weed surveillance catches a first-in-LGA aquatic incursion at Port Stephens before it spreads",
+          "summary": "Port Stephens Council's environmental operations staff picked up the prohibited floating weed Frogbit on an Anna Bay property during scheduled biosecurity monitoring — the first confirmed detection in the local government area — and ran a 20-day treatment operation across 25 properties, clearing roughly 9,000 square metres of water surface and removing more than 100 tonnes of plant matter.",
+          "so_what": "The signal here is method rather than technology: a standing surveillance routine, rather than a complaint, is what found this, and it found it early enough that containment was still possible. Councils with wetlands, drains or irrigation channels can read this as an argument for funding proactive inspection cycles in the environmental health and biodiversity budget instead of reacting once an infestation is visible.",
+          "tags": ["AU-council", "Climate, energy & biodiversity"],
+          "source": "Inside Local Government",
+          "url": "https://insidelocalgovernment.com.au/port-stephens-council-intercepts-and-clears-regions-first-frogbit-infestation/",
+          "published": "2026-08-17",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Governance, procurement & workforce",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Warrnambool, Moyne and Corangamite finish moving onto one shared cloud platform under a joint operating banner",
+          "summary": "The three south-west Victorian councils have shifted off separate on-premise systems onto a single hosted platform covering finance, people, assets, spatial and records, running common business processes under a shared arrangement they are calling Coastal Connect. Each council keeps its own governance and identity; property, rating and customer-request functions are scheduled to join the shared environment in early 2027.",
+          "so_what": "Most council 'shared services' announcements are joint procurement with separate implementations — this one unifies the processes as well as the contract, which is what makes staff genuinely transferable between the three organisations. For regional councils that cannot individually recruit a rates specialist or an asset systems administrator, this is the most directly relevant response to the workforce shortage published this week, though the harder modules are still ahead of it.",
+          "tags": ["AU-council", "Governance, procurement & workforce"],
+          "source": "Inside Local Government",
+          "url": "https://insidelocalgovernment.com.au/victorian-council-trio-pioneer-new-shared-services-model/",
+          "published": "2026-08-18",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Asset management & infrastructure delivery",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "A remote NT council rebuilds fleet oversight on satellite-backed telematics to keep eyes on crews beyond mobile coverage",
+          "summary": "MacDonnell Regional Council, which services 13 remote communities across an area comparable in size to Victoria with roughly 340 vehicles and assets, replaced an underperforming tracking setup with a telematics platform carrying satellite connectivity so vehicles stay visible outside cellular range. Beyond location, the council uses it for expected-arrival checks on long unsealed-road journeys, driver behaviour monitoring, utilisation analysis, theft prevention and maintenance lifecycle data.",
+          "so_what": "This is off-the-shelf technology applied to a problem every remote and regional council has — lone workers driving hundreds of kilometres out of coverage, and a fleet too large to size by intuition. The transferable insight is that the same investment answers a work-health-and-safety obligation and an asset-management question at once, which is how a small council gets it funded. Note this account is a supplier-provided case study, so the reported benefits are the council's and vendor's own.",
+          "tags": ["AU-industry", "Asset management & infrastructure delivery"],
+          "source": "GovTech Review (case study, supplied by Teletrac Navman)",
+          "url": "https://www.govtechreview.com.au/content/gov-transport/case-study/latest-telematics-improves-regional-council-operations-1509510563",
+          "published": "2026-08-18",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}

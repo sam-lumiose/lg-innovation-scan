@@ -1,0 +1,126 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T06:30:00+10:00",
+  "posture": "A materials-heavy day. The circular-economy thread runs through almost everything that surfaced — a completed South Australian kerbside education project with measured landfill diversion, a world-first pilot for pulling silver back out of dead solar panels, and a new research centre aimed at turning demolished concrete into usable building material. Alongside it, a second thread is forming around data centres and AI: a free decision tool built with US local officials to help small councils interrogate data-centre proposals, and a candid practitioner account of 'shadow AI' already loose inside council departments. Research institutes were effectively silent in the window.",
+  "summary": "Eight in-scope items across four categories. The single adopt-grade signal is the Barossa Council bin-lid education project, which is finished, independently evaluated and cheap enough for any council to copy. Two pilots worth watching: continuous-flow flotation recovery of silver from end-of-life solar panels at the University of Newcastle, and a statewide rollout of library-based digital access pods in Oklahoma. The rest are horizon signals — a new ARC training centre on recycled concrete and AI building-performance platforms, a GBCA rating pathway for tenant-operated assets, Kent's data-mapped fly-tipping action plan, and practical guidance on governing unsanctioned AI use inside councils. Tertiary and research sources (§1d) produced nothing qualifying in the window; the §1e council watchlist is not scanned today (Thursday).",
+  "counts": {
+    "act": 1,
+    "watch": 3,
+    "inform": 4
+  },
+  "sections": [
+    {
+      "category": "Waste & circular economy",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Barossa lifts bin lids, leaves a tailored leaflet, and gets measurable food waste out of the red bin",
+          "summary": "Over ten months, KESAB resource-recovery educators visited roughly 200 households across two Barossa towns four times each, glanced at the top layer of the green and red kerbside bins, and left a leaflet matched to what they saw rather than a generic flyer. An independent KESAB report to the August council meeting found food waste going to landfill fell, and more than half of survey respondents said they were now diverting more food scraps and thinking harder about what they throw out.",
+          "so_what": "This is about as replicable as waste behaviour change gets — no technology, no capital, and a design that deliberately avoids making residents feel policed, with addresses kept confidential. Any council carrying a state landfill levy has a direct financial case to run the same play, and the Barossa version is documented well enough to lift straight into a waste education budget bid.",
+          "tags": ["AU-council", "Waste & recycling"],
+          "source": "Inside Local Government (The Barossa Council / KESAB / Green Industries SA)",
+          "url": "https://insidelocalgovernment.com.au/bin-there-checked-that-checks-out-for-barossa/",
+          "published": "2026-08-19",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Newcastle researchers borrow a mining technique to strip silver out of dead solar panels without acid",
+          "summary": "A University of Newcastle team has run what it describes as the first continuous pilot-scale froth flotation trial for solar-panel recycling, recovering close to all the silver from 22kg of solar-cell material drawn from about 460kg of end-of-life panels. The silver ended up concentrated into a fraction worth 1.25 per cent of the input mass at more than eighty times the original concentration, and an early economic assessment suggests it could run three to five times cheaper than acid leaching.",
+          "so_what": "Councils are the default destination for household solar panels as the first big wave reaches end of life, and the economics are currently upside down — roughly $10 to $15 to recycle a panel against a few dollars to bury it. A processing route that is cheaper and skips acid handling would change what a regional resource recovery centre can realistically accept, so this is worth tracking through to a commercial operator.",
+          "tags": ["AU-industry", "Waste & recycling"],
+          "source": "Waste Management Review (University of Newcastle / CRITIUM)",
+          "url": "https://wastemanagementreview.com.au/researchers-uncover-a-silver-lining-to-australias-solar-panel-recycling-problem/",
+          "published": "2026-08-18",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "A new ARC training centre takes aim at demolished concrete and at buildings that cannot report their own performance",
+          "summary": "NØBEL, an Australian Research Council Industrial Transformation Training Centre for digital platforms led by Western Sydney University, has launched with two threads relevant to councils: turning demolition concrete into high-grade recycled building material, and building AI, sensor and analytics platforms that track how a building actually performs across its life. The ARC frames the goals as less construction waste to landfill and a lower carbon footprint on future projects.",
+          "so_what": "Construction and demolition waste is the largest stream councils influence through their own capital program and their planning conditions, and recycled-content specifications are only as strong as the material quality behind them. Worth a watching brief for asset and sustainability teams, and a possible partner if a council wants an evidence base before writing recycled aggregate into a standard specification.",
+          "tags": ["AU-industry", "Circular economy"],
+          "source": "Waste Management Review (Australian Research Council / Western Sydney University)",
+          "url": "https://wastemanagementreview.com.au/new-program-to-increase-circular-economy-of-construction-sector/",
+          "published": "2026-08-19",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Kent maps its dumping hot spots and splits rural fly-tipping from urban as two different problems",
+          "summary": "Kent County Council convened councils, enforcement agencies, landowners and the waste industry around a shared data set measuring incident volumes and mapping illegal-dumping hot spots, most of which sit on the highway. Reported incidents on public land have climbed since 2018/19 and enforcement activity has risen, but only five court fines above £5,000 have landed in that period; participants agreed four themes and committed to publishing a county fly-tipping action plan with partner-led working groups.",
+          "so_what": "The transferable idea is not the conference but the framing: treating rural and urban dumping as separate problems with separate solutions, and building the response off mapped hot-spot data shared across landholders and agencies rather than each body working its own complaints queue. Relevant to any AU council carrying illegal dumping costs on rural roadsides and reserves.",
+          "tags": ["UK", "Waste & recycling"],
+          "source": "LGIU (Kent County Council)",
+          "url": "https://lgiu.org/fly-tipping-in-kent-county-council-a-battle-fought-on-many-fronts/",
+          "published": "2026-08-19",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Built environment & planning",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Iowa law academics give small councils a free structured way to interrogate a data-centre proposal",
+          "summary": "The University of Iowa's Hubbell Environmental Law Initiative, working with the Tippie College of Business, has released a decision tool that walks county and city leaders through questions on infrastructure, water and energy supply, land use, economic development, taxation, emergency services and community priorities. It was co-designed with elected officials, administrators and utilities, takes no position for or against development, and has been trialled by the state association of counties; a playbook version and a white paper are flagged for late 2026 or early 2027.",
+          "so_what": "The problem it solves is squarely Australian: Iowa's roughly 900 very small communities lack in-house finance, legal and engineering capacity to assess a proposal far larger than anything they normally see, and NSW has just set its own data-centre framework. A structured, neutral question set is something an AU peak body or a regional organisation of councils could build cheaply and hand to member councils.",
+          "tags": ["US", "Planning & development assessment"],
+          "source": "Route Fifty (University of Iowa College of Law)",
+          "url": "https://www.route-fifty.com/artificial-intelligence/2026/08/iowa-academics-launch-tool-help-localities-weigh-proposed-data-centers/415481/",
+          "published": "2026-08-18",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Community, libraries & placemaking",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Oklahoma is putting private digital-access pods inside municipal libraries, with an AI helper built into the tablet",
+          "summary": "The Oklahoma Broadband Office is spending US$14.5 million installing enclosed pods with tablets and monitors in municipal libraries so residents can handle private online business, in what it says is the first statewide programme of its kind. Forty libraries across thirty-two counties are participating so far against a target of up to 175 portals, the first went live last month including an accessible unit, and the delivery partner is contracted to install, maintain and train library staff for five years while usage is monitored.",
+          "so_what": "Australian public libraries already carry the load of digital inclusion, usually with a bank of open-plan PCs that offer no privacy for a Centrelink form, a tenancy dispute or a medical appointment. The design details worth borrowing are the privacy enclosure, the multi-year vendor obligation to train library staff rather than just install hardware, and the built-in navigation assistant.",
+          "tags": ["US", "Libraries & digital inclusion"],
+          "source": "Route Fifty (Oklahoma Broadband Office)",
+          "url": "https://www.route-fifty.com/digital-government/2026/08/oklahoma-launches-statewide-effort-use-libraries-close-digital-divide/415492/",
+          "published": "2026-08-18",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Digital, data & AI / customer service",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "A city CIO argues councils should govern the AI staff are already using rather than try to ban it",
+          "summary": "Writing from a Texas city of about 600 staff running more than 250 applications, CIO Shane McDaniel reports that 96 per cent of surveyed public-sector IT leaders have found AI tools or agents deployed by employees outside the IT function, and 91 per cent see unsanctioned AI use as a risk. His three recommendations are to map which departments are experimenting and what data those tools touch, to buy platforms that let IT monitor and govern AI rather than confining staff to one approved tool, and to mandate AI literacy training — Texas now requires annual AI awareness training for state and local staff.",
+          "so_what": "With Australian councils under an acute workforce squeeze, staff are reaching for AI whether or not a policy exists, and the practical exposure is data handling in statutory work. The monitor-and-govern posture, plus mandatory literacy training, is a cheaper and more realistic starting point than a prohibition that will simply be ignored.",
+          "tags": ["US", "Digital, data & AI"],
+          "source": "GovTech (City of Seguin, Texas — opinion)",
+          "url": "https://www.govtech.com/voices/here-to-stay-3-ways-local-governments-can-safely-adopt-ai",
+          "published": "2026-08-18",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Asset management & infrastructure delivery",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Green Star adds a rating pathway for buildings the owner does not actually operate",
+          "summary": "The Green Building Council of Australia has opened an Industrial Pathway within Green Star Performance v2, available immediately for eligible industrial and logistics assets. It is aimed at the split-incentive case where the owner has little control over day-to-day operations, and covers energy, water, waste, resilience, health and nature with requirements on emissions reduction planning, renewable electricity and structured owner–tenant collaboration.",
+          "so_what": "Councils own depots, resource recovery facilities and industrial-zoned property that is frequently leased out, and the usual objection to rating them is that the tenant controls the meter. A pathway designed around that constraint gives a property or sustainability team a defensible way to set performance expectations at lease renewal.",
+          "tags": ["AU-industry", "Asset management"],
+          "source": "Green Building Council of Australia",
+          "url": "https://new.gbca.org.au/news/gbca-media-releases/gbca-launches-green-star-performance-industrial-pathway/",
+          "published": "2026-08-18",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
